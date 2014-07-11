@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 problem two more hello
+=======
+hello other problems
+>>>>>>> bc8f45a9de45c65c073d55ff69e29fda793f558b
 and hello again
 test again
